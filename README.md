@@ -78,7 +78,7 @@ The engine generates a comprehensive **6-panel visualization suite**:
 - **Feature Importance**: Inter-cluster variance ranking
 - **Summary Statistics**: Analysis quality metrics
 
-*The "Abalone Yangzhou" style combines rich visual information like the premium ingredients in this classic dish.*
+*The multi-style combines rich visual information like the premium ingredients in this classic dish.*
 
 ## Validation Framework
 
@@ -97,7 +97,7 @@ validation_results = {
 }
 ```
 
-## 🎯 Applications
+##  Applications
 
 - **Cancer Subtype Discovery**: Identify molecularly distinct patient groups
 - **Biomarker Identification**: Rank genes by discriminative power
@@ -140,7 +140,7 @@ Automated generation of clinical-grade analysis reports including:
 
 We welcome contributions to enhance the attention mechanism, add new validation metrics, or extend to other cancer types. Please submit issues and pull requests.
 
-## 📄 License
+##  License
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
@@ -157,4 +157,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**⚠ Note**: This tool is designed for research purposes. Clinical ap
+** Note**: This tool is designed for research purposes. Clinical ap
