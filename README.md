@@ -13,6 +13,7 @@ The **Attention-Enhanced Subtype Discovery Engine** introduces an innovative app
 
 **Key Innovation:** Unlike traditional clustering methods, our attention mechanism constructs patient-patient similarity networks in PCA space, revealing cohesive subgroups and outlier patterns that may represent novel therapeutic targets.
 
+![image](https://github.com/user-attachments/assets/e5e905b3-0d11-4031-8fab-355a4a0abd06)
 | Input | Output | Clinical Value |
 |-------|--------|----------------|
 | 🧬 Gene expression (samples × genes) | 🎯 Cancer subtypes | Precision therapy selection |
@@ -156,7 +157,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ```
 
 ---
-![image](https://github.com/user-attachments/assets/e5e905b3-0d11-4031-8fab-355a4a0abd06)
+
 
 
 ** Note**: This tool is designed for research purposes. Clinical ap
