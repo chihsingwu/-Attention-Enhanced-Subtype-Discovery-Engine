@@ -12,8 +12,10 @@ The Attention-Enhanced Subtype Discovery Engine introduces an innovative approac
 The **Attention-Enhanced Subtype Discovery Engine** introduces an innovative approach to cancer genomics analysis by integrating dimensionality reduction with attention mechanisms. This pipeline creates patient similarity networks through cosine attention matrices, enabling robust subtype identification and biomarker discovery.
 
 **Key Innovation:** Unlike traditional clustering methods, our attention mechanism constructs patient-patient similarity networks in PCA space, revealing cohesive subgroups and outlier patterns that may represent novel therapeutic targets.
+![Uploading 523272123-85e89dee-114c-4b3e-aaf2-fa71f267060c.png…]()
+<img width="2303" height="2064" alt="523272194-d2ddaa18-b1d4-4ce4-bdc0-400544da2cf9" src="https://github.com/user-attachments/assets/f6873cc2-a653-4134-94d3-5b30f6e2347f" />
 
-![image](https://github.com/user-attachments/assets/e5e905b3-0d11-4031-8fab-355a4a0abd06)
+
 | Input | Output | Clinical Value |
 |-------|--------|----------------|
 | 🧬 Gene expression (samples × genes) | 🎯 Cancer subtypes | Precision therapy selection |
